@@ -1,4 +1,4 @@
-name: Update GitHub Trophy
+name: Update GitHub Trophies
 
 on:
   schedule:
@@ -16,14 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy
+      - name: Generate trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=Sojha09&theme=tokyonight&column=6&row=1&margin-w=10&no-bg=true&no-frame=true'
+          options: 'username=Sojha09&theme=tokyonight&column=6&row=1&margin-w=15&no-bg=true&no-frame=true'
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Trophy
+      - name: Commit trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
