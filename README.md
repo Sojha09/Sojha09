@@ -262,7 +262,7 @@ Collection of full-stack applications built with the MERN stack.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sojha09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
