@@ -258,16 +258,6 @@ Collection of full-stack applications built with the MERN stack.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
-
-</div>
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
