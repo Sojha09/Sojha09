@@ -111,7 +111,7 @@
 
 ## 🤖 AI Resume Analysis
 
-<img src="https://img.shields.io/badge/AI-Powered-C084FC?style=flat-square" />
+<img src="https://img.shields.io/badge/AI--Powered-C084FC?style=flat-square" />
 
 AI-powered resume analysis and job matching platform.
 
@@ -262,11 +262,66 @@ Collection of full-stack applications.
 
 ---
 
-# 🐍 Contribution Snake
+# 🤖 AI Development Terminal
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sojha09/Sojha09/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=500&color=22D3EE&center=true&vCenter=true&width=700&lines=%5BOK%5D+Booting+Shubham.OS...;%5BOK%5D+Loading+AI+Engineering+Modules...;%5BOK%5D+Initializing+LLM+Pipeline...;%5BOK%5D+Connecting+LangGraph...;%5BOK%5D+Initializing+RAG+System...;%5BOK%5D+Starting+Full-Stack+Core...;%5BSUCCESS%5D+All+systems+online+%F0%9F%9A%80" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td>
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   shubham@ai-lab:~$ ./system_status.sh                   │
+│                                                          │
+│   ┌──────────────────────────────────────────────────┐   │
+│   │              SHUBHAM.OS v2.0                    │   │
+│   └──────────────────────────────────────────────────┘   │
+│                                                          │
+│   [✓] AI ENGINEERING                                    │
+│       ████████████████████░░░░                          │
+│                                                          │
+│   [✓] FULL-STACK DEVELOPMENT                            │
+│       █████████████████████░░░                          │
+│                                                          │
+│   [✓] DATA STRUCTURES & ALGORITHMS                      │
+│       █████████████████░░░░░                            │
+│                                                          │
+│   [✓] LLM / RAG SYSTEMS                                 │
+│       ████████████████░░░░░░                            │
+│                                                          │
+│   [→] AGENTIC AI                                        │
+│       █████████████░░░░░░░░                             │
+│                                                          │
+│   ────────────────────────────────────────────────────   │
+│                                                          │
+│   ACTIVE MODULES                                         │
+│                                                          │
+│   > LangGraph                                            │
+│   > LLM Applications                                     │
+│   > RAG Pipelines                                        │
+│   > REST APIs                                            │
+│   > Full-Stack Systems                                   │
+│                                                          │
+│   ────────────────────────────────────────────────────   │
+│                                                          │
+│   SYSTEM STATUS : ● ONLINE                              │
+│   CURRENT MODE  : BUILDING                              │
+│   COFFEE LEVEL  : ██████████████████░░  ☕               │
+│                                                          │
+│   shubham@ai-lab:~$ _                                   │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -320,54 +375,11 @@ Collection of full-stack applications.
 
 ---
 
-# 🖥️ Terminal
+# ⚡ Developer Status
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────────────────┐
-│  shubham@github:~$ whoami                                 │
-│                                                           │
-│  Shubham Ojha                                             │
-│                                                           │
-│  shubham@github:~$ current_status                         │
-│                                                           │
-│  [████████████████████░░] Building                        │
-│                                                           │
-│  shubham@github:~$ focus                                  │
-│                                                           │
-│  AI Engineering • Full Stack • DSA • Agentic AI           │
-│                                                           │
-│  shubham@github:~$ status                                 │
-│                                                           │
-│  ● ONLINE                                                  │
-└───────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  ✅ Full-Stack Development                           │
-│  ✅ AI-powered Applications                          │
-│  ✅ REST API Development                              │
-│  ✅ LangGraph & LLM Workflows                        │
-│                                                      │
-│  🔄 Agentic AI Systems                               │
-│  🔄 Advanced DSA                                    │
-│  🔄 System Design                                   │
-│  🔄 Open Source Contributions                       │
-│  🔄 Production AI Applications                      │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=Designing+%E2%86%92+Coding+%E2%86%92+Testing+%E2%86%92+Deploying;Turning+Ideas+into+Working+Systems;Building+with+AI+%2B+Full-Stack;Always+Learning%2C+Always+Building" />
 
 </div>
 
