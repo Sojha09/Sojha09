@@ -1,140 +1,153 @@
-<h1 align="center">Hey 👋, I'm Shubham Ojha</h1>
+<div align="center">
 
-<p align="center">
-  <strong>💻 CSE-DS Student | Full-Stack Developer | AI/ML & Agentic AI Enthusiast</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Shubham+Ojha;CSE-DS+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+%26+Agentic+AI+Enthusiast+%F0%9F%A4%96;Building+AI-Powered+Products+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sojha09&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sojha09?label=Followers&style=flat&color=06b6d4" alt="Followers" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sojha09&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Sojha09?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
+
+<br><br>
+
+<a href="https://github.com/Sojha09">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me <img src="https://img.shields.io/badge/●%20LIVE-00D9FF?style=flat-square&labelColor=00D9FF&color=00D9FF" />
+## 👨‍💻 About Me <img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-00D9FF?style=flat-square" />
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
 ```text
-Name           : Shubham Ojha
-Role           : Software Developer
-Specialization : AI/ML • Full-Stack Development
-Education      : B.Tech CSE-DS
-Year           : 2nd Year
-Location       : India
-
-Focus          : AI-powered products & scalable applications
-Interests      : Agentic AI • LLMs • RAG • Backend Systems
-Currently      : Building AI + Full-Stack projects
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   👨‍💻  NAME           : Shubham Ojha                    │
+│   🎓  EDUCATION       : B.Tech CSE-DS                    │
+│   💻  ROLE            : Full-Stack Developer              │
+│   🤖  SPECIALIZATION  : AI/ML & Agentic AI               │
+│   🌐  FOCUS           : AI + Web Applications             │
+│   🧠  INTERESTS       : LLMs • RAG • LangGraph            │
+│   🚀  BUILDING        : Scalable AI-powered Products      │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,postgresql,docker,git,github&perline=13" />
+
+</div>
+
+---
+
+## ⚡ Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;Learning+LLM+%26+RAG+Architecture;Developing+Full-Stack+Applications;Practicing+Data+Structures+%26+Algorithms;Exploring+System+Design" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <a href="https://github.com/Sojha09">
-    <img src="https://img.shields.io/badge/GITHUB-0D0628?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D0628?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=Sojha09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Sojha09&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,tailwind,vite,nodejs,express,mongodb,postgresql,docker,git,github,postman,vscode&perline=9&size=48"
-    alt="Tech Stack"
-  />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 </p>
 
 <h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-C084FC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-C084FC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logoColor=white" />
 
+</p>
+
+<h3 align="center">🔧 Tools & DevOps</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
-<table align="center" width="100%">
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Analysis & Matching
+## 🤖 AI Resume Analysis
 
-AI-powered resume analysis platform that evaluates candidates against job descriptions and provides personalized recommendations.
+<img src="https://img.shields.io/badge/AI-Powered-C084FC?style=flat-square" />
 
-**Highlights**
+AI-powered resume analysis and job matching platform.
 
-* 📄 Resume & JD analysis
-* 🤖 LLM-driven evaluation
+**Features**
+
+* 🧠 LLM-driven candidate evaluation
 * 🔗 LangGraph workflows
-* ⚡ 10+ REST APIs
+* 📄 Resume & JD analysis
 * 📊 Candidate scoring
 * 💡 Personalized recommendations
-* 🐳 Dockerized architecture
+* ⚡ 10+ REST APIs
+* 🐳 Dockerized services
 
-**Tech:**
-`Python` `LLM` `LangGraph` `REST API` `Docker`
+`Python` `LLM` `LangGraph` `Docker`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏥 AyurSutra
+## 🏥 AyurSutra
 
-PanchKarma patient management and intelligent therapy scheduling platform.
+<img src="https://img.shields.io/badge/Healthcare-Platform-06B6D4?style=flat-square" />
 
-**Highlights**
+Smart PanchKarma patient management system.
+
+**Features**
 
 * 🧠 Dosha-based scheduling
-* 👨‍⚕️ Doctor / Therapist / Patient roles
+* 👨‍⚕️ Role-based access
 * 📅 Therapy scheduling
 * 🔐 JWT authentication
 * 🗄️ PostgreSQL
 * 🌐 Multilingual support
-* 🎙️ Voice interface concept
+* 🎙️ Voice interface
 
-**Tech:**
-`React` `Node.js` `Express` `PostgreSQL` `JWT`
+`React` `Node.js` `PostgreSQL`
 
 </td>
 
@@ -144,43 +157,45 @@ PanchKarma patient management and intelligent therapy scheduling platform.
 
 <td width="50%" valign="top">
 
-### 🛡️ Lightweight NIDS
+## 🛡️ Lightweight NIDS
 
-Real-time network intrusion detection system designed for resource-constrained devices.
+<img src="https://img.shields.io/badge/Cybersecurity-IDS-C084FC?style=flat-square" />
 
-**Highlights**
+Real-time intrusion detection system for Raspberry Pi.
+
+**Features**
 
 * 🍓 Raspberry Pi 4B
-* 🔍 Real-time packet monitoring
-* 🛡️ Suricata IDS
+* 🔍 Packet monitoring
+* 🛡️ Suricata
 * 🚨 SYN flood detection
-* 🔎 Nmap port-scan detection
-* 📡 MQTT alert pipeline
+* 🔎 Port-scan detection
+* 📡 MQTT alerts
 * 📊 Flask dashboard
 
-**Tech:**
-`Python` `Suricata` `MQTT` `Flask` `Raspberry Pi`
+`Python` `Suricata` `MQTT` `Flask`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📝 MERN Applications
+## 📝 MERN Applications
 
-Built multiple full-stack applications including Notes, Blog and ToDo platforms.
+<img src="https://img.shields.io/badge/Full--Stack-MERN-06B6D4?style=flat-square" />
 
-**Highlights**
+Collection of full-stack applications.
 
+**Includes**
+
+* 📝 Notes App
+* 📰 Blog App
+* ✅ ToDo App
 * 🔐 Authentication
 * ✏️ CRUD operations
 * 🖼️ Image uploads
 * 💬 Comments
-* 🔔 Notifications
-* 🧪 API testing
-* 📱 Responsive UI
 
-**Tech:**
-`MongoDB` `Express` `React` `Node.js` `Tailwind`
+`MongoDB` `Express` `React` `Node.js`
 
 </td>
 
@@ -189,11 +204,17 @@ Built multiple full-stack applications including Notes, Blog and ToDo platforms.
 
 ---
 
-<h2 align="center">🧠 Data Structures & Algorithms</h2>
+# 🧠 DSA & Problem Solving
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C3AED?style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=Arrays+%E2%86%92+Hashing+%E2%86%92+Binary+Search;Linked+Lists+%E2%86%92+Trees+%E2%86%92+Graphs;Recursion+%E2%86%92+Backtracking+%E2%86%92+DP;Solve+%E2%86%92+Optimize+%E2%86%92+Implement" />
+
+<br>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C3AED?style=for-the-badge" />
+
+</div>
 
 <p align="center">
 
@@ -209,147 +230,171 @@ Built multiple full-stack applications including Notes, Blog and ToDo platforms.
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <h3>🔥 Contribution Graph</h3>
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Sojha09&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <h3>📌 Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sojha09&theme=tokyonight"
-        alt="GitHub Overview"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">💻 Most Used Languages</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sojha09&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
-
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sojha09&theme=tokyonight"
-    alt="Languages by Commit"
-    width="100%"
-  />
-</td>
-```
-
-  </tr>
-</table>
-
----
-
-<h2 align="center">⚡ What I'm Currently Working On</h2>
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  🤖 AI Engineering                              │
-│  🔗 Agentic AI & LangGraph                     │
-│  📚 LLM & RAG Applications                     │
-│  💻 Full-Stack Development                      │
-│  🔐 Backend & API Architecture                  │
-│  🧠 Data Structures & Algorithms                │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<img src="https://github-profile-trophy.vercel.app/?username=Sojha09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
-<h2 align="center">🎯 Goals</h2>
+# 📊 GitHub Statistics
 
-<table align="center">
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Sojha09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=Sojha09&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sojha09&theme=tokyo-night&hide_border=true&area=true&height=300" width="95%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sojha09/Sojha09/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<table align="center" width="100%">
 
 <tr>
-<td>
 
-```text
-[✓] Learn Full-Stack Development
-[✓] Build MERN Applications
-[✓] Build AI-powered Applications
-[✓] Work with REST APIs
-[✓] Explore LangGraph & LLMs
+<td width="50%" align="center">
 
-[ ] Build production-ready Agentic AI systems
-[ ] Contribute to Open Source
-[ ] Strengthen DSA & System Design
-[ ] Build scalable AI applications
-[ ] Deploy production-grade projects
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sojha09&theme=tokyonight" width="100%" />
 
 </td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sojha09&theme=tokyonight&utcOffset=5.5" width="100%" />
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
-<h2 align="center">📌 Current Learning</h2>
+# 💻 Language Analytics
 
-<p align="center">
+<table align="center" width="100%">
 
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Applications-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge" />
+<tr>
 
-</p>
+<td width="50%" align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sojha09&theme=tokyonight" width="100%" />
 
-<h2 align="center">🤝 Let's Connect</h2>
+</td>
 
-<p align="center">
+<td width="50%" align="center">
 
-<a href="https://github.com/Sojha09">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sojha09&theme=tokyonight" width="100%" />
 
-<a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</td>
 
-</p>
+</tr>
+
+</table>
 
 ---
+
+# 🖥️ Terminal
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║          BUILD • LEARN • SOLVE • REPEAT      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+┌───────────────────────────────────────────────────────────┐
+│  shubham@github:~$ whoami                                 │
+│                                                           │
+│  Shubham Ojha                                             │
+│                                                           │
+│  shubham@github:~$ current_status                         │
+│                                                           │
+│  [████████████████████░░] Building                        │
+│                                                           │
+│  shubham@github:~$ focus                                  │
+│                                                           │
+│  AI Engineering • Full Stack • DSA • Agentic AI           │
+│                                                           │
+│  shubham@github:~$ status                                 │
+│                                                           │
+│  ● ONLINE                                                  │
+└───────────────────────────────────────────────────────────┘
 ```
 
-### ⭐ Thanks for visiting my profile!
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  ✅ Full-Stack Development                           │
+│  ✅ AI-powered Applications                          │
+│  ✅ REST API Development                              │
+│  ✅ LangGraph & LLM Workflows                        │
+│                                                      │
+│  🔄 Agentic AI Systems                               │
+│  🔄 Advanced DSA                                    │
+│  🔄 System Design                                   │
+│  🔄 Open Source Contributions                       │
+│  🔄 Production AI Applications                      │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Sojha09">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%F0%9F%94%A5" />
+
+<br><br>
+
+### ⭐ BUILD • LEARN • SOLVE • REPEAT
 
 </div>
