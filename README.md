@@ -298,6 +298,32 @@ Collection of full-stack applications built with the MERN stack.
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=%24+git+log+--activity;%24+tracking+contributions...;%24+building+every+day...;%5BOK%5D+Contribution+system+online+%F0%9F%90%8D" />
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sojha09/Sojha09/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sojha09/Sojha09/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sojha09/Sojha09/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
+
+</div>
+
 # 🤖 AI Development Terminal
 
 <div align="center">
@@ -421,30 +447,46 @@ Collection of full-stack applications built with the MERN stack.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Sojha09">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+<p>
+  <b>Have an idea, opportunity, or project in mind?</b><br>
+  <i>Let's connect and build something meaningful.</i>
+</p>
 
 <br>
 
-<div align="center">
+<a href="https://github.com/Sojha09">
+  <img
+    src="https://img.shields.io/badge/GitHub-Sojha09-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%F0%9F%94%A5" />
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Shubham%20Ojha-111827?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 <br><br>
 
-<b>⭐ BUILD • LEARN • SOLVE • REPEAT</b>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Keep+Learning.+Keep+Building.;Turning+Ideas+into+Impact.;Build+%E2%80%A2+Learn+%E2%80%A2+Solve+%E2%80%A2+Repeat"
+  alt="Closing message"
+/>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C084FC,100:06B6D4&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
