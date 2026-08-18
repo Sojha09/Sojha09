@@ -48,7 +48,7 @@ Name           : Shubham Ojha
 Role           : Full-Stack Developer
 Specialization : AI/ML • Agentic AI • LLM Applications
 Education      : B.Tech CSE-DS
-Year           : 2nd Year
+Year           : 4th Year
 Location       : India
 Focus          : AI-powered products & scalable applications
 Interests      : LLMs • RAG • LangGraph • Backend Systems
