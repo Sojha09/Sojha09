@@ -4,22 +4,33 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sojha09&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Sojha09?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
+<img src="https://img.shields.io/github/followers/Sojha09?style=for-the-badge&label=FOLLOWERS&labelColor=555555&color=06B6D4" />
 
 <br><br>
 
+<table>
+<tr>
+<td align="center">
+
 <a href="https://github.com/Sojha09">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
+
+</td>
+
+<td width="15"></td>
+
+<td align="center">
+
 <a href="https://www.linkedin.com/in/shubham-ojha-847767304/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 <br>
 
 ---
