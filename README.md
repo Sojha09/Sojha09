@@ -292,7 +292,11 @@ Collection of full-stack applications built with the MERN stack.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sojha09&theme=tokyo-night&hide_border=true&area=true&height=300" width="95%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sojha09&bg_color=0D1117&color=C084FC&line=7C3AED&point=22D3EE&area_color=7C3AED&area=true&hide_border=true&custom_title=Shubham's%20Contribution%20Activity"
+  width="95%"
+  alt="Contribution Activity"
+/>
 
 </div>
 
